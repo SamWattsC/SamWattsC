@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Samuel Watts 👋
 
 -  Top Technologies - Java, C, Python, Javascript, C++
 -  I’m currently working on Machine Learning and Computer Vision projects
